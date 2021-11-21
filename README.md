@@ -1,1 +1,3 @@
-# CS601_HW2_goudy
+# CS601_HW3_goudy
+
+![screenshot](images/homepage.png)
